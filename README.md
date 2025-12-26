@@ -69,6 +69,10 @@ The architecture is organized into clear layers:
 1. Open the project in NetBeans
 2. Run the main demo class
 3. Interact with the system using the console-based menu
+   
+## Demonstration
+A complete demonstration of the system (device creation, control, automation, and energy management)
+is available in the project presentation.
 
 ## Authors
 - Arij Khlifi
