@@ -77,5 +77,4 @@ The architecture is organized into clear layers:
 - Lina Smiri
 - Siwar Jerbi
 
-## Project Type
-Academic project – Object-Oriented Programming (Java)
+
